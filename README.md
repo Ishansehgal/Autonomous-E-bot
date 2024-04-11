@@ -1,5 +1,5 @@
 # Autonomous E-Bot Project using ROS 2 Foxy
-![Autonomous E-Bot](images/1.jpg "Autonomous E-Bot")
+![Autonomous E-Bot](images/1.jpeg "Autonomous E-Bot")
 
 This repository contains the code and resources for an autonomous car project using ROS 2 Foxy. The project includes integration with an ASUS motherboard for processing, x2 YLidar for sensing, wheel encoders (OE-28 Hall Effect Two Channel Magnetic Encoder), and Orange 12V 300 RPM Johnson Geared DC Motors for propulsion.
 
@@ -40,5 +40,5 @@ This repository contains the code and resources for an autonomous car project us
 - [Arduino Nano](https://robu.in/product/atmega328p-5v-nano-v3-0-development-board-16mhz-ch340-type-c/)
 - [Nano 328P Expansion Adapter](https://robu.in/product/nano-328p-expansion-adapter-breakout-board-io-shield/)
 - 
-![Autonomous E-Bot](images/2.jpg "Autonomous E-Bot")
-![Autonomous E-Bot](images/3.jpg "Autonomous E-Bot")
+![Autonomous E-Bot](images/2.jpeg "Autonomous E-Bot")
+![Autonomous E-Bot](images/3.jpeg "Autonomous E-Bot")
